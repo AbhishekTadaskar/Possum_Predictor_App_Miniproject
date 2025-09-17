@@ -2,6 +2,8 @@
 
 This is an advanced Streamlit application built to predict the total length of a possum based on various physical and demographic attributes. The app features multiple input methods, detailed data analysis, and interactive visualizations.
 
+👉 Live Demo: [https://dataengineeringproject-abhishek9172.streamlit.app/](https://possumpredictorappminiproject-abhi.streamlit.app/)
+
 ***
 
 ### Features
